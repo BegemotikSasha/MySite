@@ -1,0 +1,31 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+
+body {
+    font-family: Consolas;
+    color: navy;
+}
+
+h1 {
+    color: orange;
+}
+
+#people {
+    color: white;
+    background-color: red;
+    font-size: 16px;
+}
+
+.p1{
+    color: #1adbcb;
+}
+
+.p2{
+    color: #1adba1;
+}
+
+.p3{
+    color: #1ad8db;
+}

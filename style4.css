@@ -1,0 +1,35 @@
+body {
+    background-color: darkblue;
+    color: cyan;
+}
+
+.block {
+    background-color: royalblue;
+    border: 2px dashed yellow;
+    height: 60px;
+    padding: 5px;
+    width: 100%;
+}
+
+.header,
+.footer
+.main{
+    width: 80%;
+    margin: 0 auto;
+}
+.block1 {
+    width: 45%;
+    float: left;
+}
+
+.block2 {
+    width: 45%;
+    float: right;
+}
+
+.block3 {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    clear: both;
+}
